@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Kunal_kushwaha_java/Endowment/Endowment.iml" filepath="$PROJECT_DIR$/Kunal_kushwaha_java/Endowment/Endowment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Endowment/Endowment.iml" filepath="$PROJECT_DIR$/Endowment/Endowment.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kunal_kushwaha_java/Kunal_kushwaha_java.iml" filepath="$PROJECT_DIR$/Kunal_kushwaha_java/Kunal_kushwaha_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tata_strive_Task1.iml" filepath="$PROJECT_DIR$/Tata_strive_Task1.iml" />
     </modules>
